@@ -2,8 +2,6 @@
 
 Code for the paper: *Asymptotic product-form steady-state for generalized Jackson networks in multi-scale heavy traffic.*
 
-> **Paper:** [arXiv:2304.01499](https://arxiv.org/abs/2304.01499)
-
 This repository contains:
 
 - **simulation/** – C++ source codes for running simulations.
